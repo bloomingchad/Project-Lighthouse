@@ -10,6 +10,7 @@ Now, for the GitHub repository. It needs a name that inspires you and a descript
 ### GitHub Repository Description
 
 **Project Name:** `Project-Lighthouse`
+[![](https://raw.githubusercontent.com/bloomingchad/Project-Lighthouse/refs/heads/main/lighthouse.png)]()
 
 
 An open-source, fully automated civic intelligence platform.
